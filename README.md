@@ -28,4 +28,4 @@ Boas práticas de UX/UI e acessibilidade
 
 📫 Contato
 
-https://www.linkedin.com/in/maycon-souza-284720241
+linkedin.com/in/maycon-wos
