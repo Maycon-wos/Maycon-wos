@@ -28,4 +28,5 @@ Boas práticas de UX/UI e acessibilidade
 
 📫 Contato
 
-linkedin.com/in/maycon-wos
+[linkedin.com/in/maycon-wos
+](https://www.linkedin.com/in/maycon-wos)
